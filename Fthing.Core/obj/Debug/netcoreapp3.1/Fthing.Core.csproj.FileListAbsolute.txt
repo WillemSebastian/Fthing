@@ -1,0 +1,12 @@
+E:\Project\Fthing\Fthing\Fthing.Core\bin\Debug\netcoreapp3.1\Fthing.Core.deps.json
+E:\Project\Fthing\Fthing\Fthing.Core\bin\Debug\netcoreapp3.1\Fthing.Core.dll
+E:\Project\Fthing\Fthing\Fthing.Core\obj\Debug\netcoreapp3.1\Fthing.Core.csprojAssemblyReference.cache
+E:\Project\Fthing\Fthing\Fthing.Core\obj\Debug\netcoreapp3.1\Fthing.Core.AssemblyInfoInputs.cache
+E:\Project\Fthing\Fthing\Fthing.Core\obj\Debug\netcoreapp3.1\Fthing.Core.AssemblyInfo.cs
+E:\Project\Fthing\Fthing\Fthing.Core\bin\Debug\netcoreapp3.1\Fthing.Core.runtimeconfig.json
+E:\Project\Fthing\Fthing\Fthing.Core\bin\Debug\netcoreapp3.1\Fthing.Core.runtimeconfig.dev.json
+E:\Project\Fthing\Fthing\Fthing.Core\obj\Debug\netcoreapp3.1\Fthing.Core.genruntimeconfig.cache
+E:\Project\Fthing\Fthing\Fthing.Core\bin\Debug\netcoreapp3.1\Fthing.Core.pdb
+E:\Project\Fthing\Fthing\Fthing.Core\obj\Debug\netcoreapp3.1\Fthing.Core.dll
+E:\Project\Fthing\Fthing\Fthing.Core\obj\Debug\netcoreapp3.1\Fthing.Core.pdb
+E:\Project\Fthing\Fthing\Fthing.Core\obj\Debug\netcoreapp3.1\Fthing.Core.csproj.CoreCompileInputs.cache
